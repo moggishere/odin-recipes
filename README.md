@@ -1,2 +1,4 @@
 # odin-recipes
 TOP basic HTML project
+
+Trying to make something functional with HTML only, no CSS
